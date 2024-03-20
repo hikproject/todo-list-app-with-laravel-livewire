@@ -26,9 +26,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
   DB_PASSWORD= // password database anda
   ```
 - update keperluan laravel nya dengan code berikut di terminal
-    ` composer update `
--lakukan migrasi table database
-    ` php artisan migrate `
--jalankan laravel
-    `php artisan serve`
+  ` composer update `
+- lakukan migrasi table database
+  ` php artisan migrate `
+- jalankan laravel
+  `php artisan serve`
 
